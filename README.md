@@ -1,6 +1,6 @@
 # jupyterlab_plotlyhelp
 
-Add plotly help resources to the JupyterLab help menu
+Add Plotly help resources to the JupyterLab help menu
 
 
 ## Prerequisites
