@@ -20,6 +20,6 @@ jupyter labextension install jupyterlab_plotlyhelp
 For a development install (requires npm version 4 or later), do the following in the repository directory:
 
 ```bash
-npm install
+jlpm install
 jupyter labextension link .
 ```
